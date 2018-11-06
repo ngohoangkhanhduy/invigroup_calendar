@@ -14,4 +14,11 @@ Resolve:
 
 There is two option: 
 - Write function as a module of Drupal 8.x
-- Write a function as  a PHP file single
+- Write a function as  a PHP single file
+
+Demo:
+--------------------------
+With module of Drupal 8: 
+http://test.invigroup.com/invigroup/getday
+With php single file:
+http://invigroup.net/calendar.php
