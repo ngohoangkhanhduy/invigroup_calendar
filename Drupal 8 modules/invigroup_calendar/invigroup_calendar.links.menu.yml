@@ -1,0 +1,7 @@
+invigroup_calendar.getday:
+    title:  Invi Group Calendar
+    description: 'Invigroup Calendar'
+    parent: main
+    menu_name: main
+    route_name: invigroup_calendar.getday
+    weight: 500

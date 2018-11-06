@@ -1,0 +1,7 @@
+invigroup_calendar.getday:
+  path: '/invigroup/getday'
+  defaults:
+    _form: '\Drupal\invigroup_calendar\Form\getDayForm'
+    _title: 'Invigroup Calendar'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,5 @@
+name: InviGroup Calendar
+type: module
+description: Invigroup Calendar.
+core: 8.x
+package: Invigroup
